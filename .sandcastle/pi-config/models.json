@@ -1,0 +1,10 @@
+{
+  "providers": {
+    "starimg": {
+      "baseUrl": "https://ai.starimg.ru/v1",
+      "api": "openai-completions",
+      "apiKey": "$STARIMG_API_KEY",
+      "discoverModels": true
+    }
+  }
+}

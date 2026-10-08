@@ -1,0 +1,14 @@
+{
+  "name": "my-project",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "sandcastle": "tsx .sandcastle/main.ts",
+    "wizard": "bash .sandcastle/wizard.sh"
+  },
+  "devDependencies": {
+    "@ai-hero/sandcastle": "^0.12.0",
+    "tsx": "^4.21.0",
+    "zod": "^4.4.3"
+  }
+}

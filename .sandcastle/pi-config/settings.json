@@ -1,0 +1,10 @@
+{
+  "defaultProvider": "starimg",
+  "defaultModel": "glm-5.3-flash",
+  "packages": [
+    "npm:pi-models-discovery"
+  ],
+  "enabledModels": [
+    "starimg/*"
+  ]
+}
